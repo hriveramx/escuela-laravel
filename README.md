@@ -139,4 +139,4 @@ Una vez que todos los pasos anteriores se completen, tu aplicación Laravel debe
 
 ## ❓ ¿Problemas o Dudas?
 
-Si no te funciona algo, tienes preguntas, etc. No dudes en contactarme: hriveradg@gmail.com - 222 1339876
+Si no te funciona algo, tienes preguntas, etc. No dudes en contactarme: hriveradg@gmail.com 
